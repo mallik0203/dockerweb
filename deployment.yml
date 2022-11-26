@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: marjun21/mallik:v9
+     image: marjun21/mallik:v10
      imagePullPolicy: Always
      stdin: true
      tty: true
